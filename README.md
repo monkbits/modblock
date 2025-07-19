@@ -1,2 +1,11 @@
-# modblock
-ModBlock is a modern UI component library designed to make frontend development faster, cleaner, and more efficient. It offers a collection of lightweight, customizable, and accessible building blocks that help you ship beautiful UIs with minimal effort.
+# ModeBlock
+
+what is modblock
+    modblock is component library you can use it in your project for free to speedup your development process. 
+
+how to install 
+
+```
+npm i modblock
+
+```

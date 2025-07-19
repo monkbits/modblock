@@ -1,0 +1,39 @@
+{
+    "name": "modblock",
+    "version": "1.0.5",
+    "description": "its a ui component library which will make development better and faster.",
+    "type": "module",
+    "main": "dist/index.cjs",
+    "module": "dist/index.js",
+    "exports": {
+        "import" : "./dist/index.js",
+        "require": "./dist/index.js"
+    },
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+},
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkbits/modblock.git"
+},
+"keywords": [
+    "component",
+    "react",
+    "ui",
+    "tailwind",
+    "design",
+    "frontend"
+],
+"author": "Ankur Goyal (ankurgoyal.in)",
+"license": "Apache-2.0",
+"bugs": {
+    "url": "https://github.com/monkbits/modblock/issues"
+},
+"homepage": "https://github.com/monkbits/modblock#readme",
+"devDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tsup": "^8.5.0"
+  }
+}
